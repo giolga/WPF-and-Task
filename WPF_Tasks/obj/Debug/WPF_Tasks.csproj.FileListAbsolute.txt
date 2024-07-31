@@ -1,0 +1,15 @@
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\bin\Debug\WPF_Tasks.exe.config
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\bin\Debug\WPF_Tasks.exe
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\bin\Debug\WPF_Tasks.pdb
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\MainWindow.g.cs
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\App.g.cs
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks_MarkupCompile.cache
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks_MarkupCompile.lref
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\MainWindow.baml
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.g.resources
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.Properties.Resources.resources
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.csproj.GenerateResource.cache
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.exe
+C:\Users\GioLGA\Desktop\DotNet1\WPF_Tasks\WPF_Tasks\obj\Debug\WPF_Tasks.pdb

@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\WPF_Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A30F9E34-46AC-4FD9-A677-09341CCC8201}|WPF_Tasks\\WPF_Tasks.csproj|c:\\users\\giolga\\desktop\\dotnet1\\wpf_tasks\\wpf_tasks\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30F9E34-46AC-4FD9-A677-09341CCC8201}|WPF_Tasks\\WPF_Tasks.csproj|solutionrelative:wpf_tasks\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30F9E34-46AC-4FD9-A677-09341CCC8201}|WPF_Tasks\\WPF_Tasks.csproj|C:\\Users\\GioLGA\\Desktop\\DotNet1\\WPF_Tasks\\wpf_tasks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A30F9E34-46AC-4FD9-A677-09341CCC8201}|WPF_Tasks\\WPF_Tasks.csproj|solutionrelative:wpf_tasks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\WPF_Tasks\\WPF_Tasks\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Tasks\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\WPF_Tasks\\WPF_Tasks\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Tasks\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-31T09:45:11.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\WPF_Tasks\\WPF_Tasks\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Tasks\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\WPF_Tasks\\WPF_Tasks\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Tasks\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:45:11.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
